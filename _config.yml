@@ -1,7 +1,7 @@
 name: Aaron Rutherford
 favicon: null
-layout_spectrum: 0.5445734050590545
-typography_spectrum: 0.20770218828693032
+layout_spectrum: 1
+typography_spectrum: 0.52602
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.22330674692057073
-  lightness: 0.36617639870382845
-  saturation: 0.9982566421385854
-  rhythmicContrast: 0.03734312974847853
+  brandStrength: 0.3125
+  lightness: 0.4375
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
